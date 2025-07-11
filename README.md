@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kabir 👋</h1>
 
 <p align="center">
-  <b>Flutter & Android Developer • Problem Solver • Tech Explorer</b><br>
-  Building mobile apps that blend clean UI with real-world AI ✨
+  <b>Full Stack Developer • Flutter • Android • Problem Solver • Tech Explorer</b><br>
+  Building apps that blend clean UI with real-world AI ✨
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 
 ## 🚀 About Me
 
-- 🧠 Final year B.Tech student at VIT Vellore (ECE)
-- 📱 Passionate about **Flutter, Android (Kotlin)**, and full-stack mobile app development
+- 🧠 B.Tech Graduate from VIT Vellore (ECE)
+- 📱 Passionate about **Flutter, Android (Kotlin)**, and full-stack app development
 - 🧑‍💻 Creator of [Resumate AI](https://github.com/Kabirlakhadive/resumate_ai) – AI-powered resume builder using Gemini API & dynamic PDF
 - 💡 Interested in **clean UI/UX**, scalable systems, and solving real-world problems with code
 - 📚 Strong foundation in **DSA, OOP**, and full-cycle product development
